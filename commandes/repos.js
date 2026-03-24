@@ -45,7 +45,7 @@ const date = moment().format('DD/MM/YYYY');
 
 │❒⁠⁠⁠⁠│▸ *GROUP* : https://chat.whatsapp.com/DTnrZzULVtP5r0E9rhoFOj
 
-│❒⁠⁠⁠⁠│▸ *REPO* : https://github.com/bravesebastian458-dotcom/Sebastian-Md
+│❒⁠⁠⁠⁠│▸ *REPO* : https://github.com/doctorstranger2026-prog/SEBA-XMD
 
 │❒⁠⁠⁠⁠│▸ *CHANNEL2* https://whatsapp.com/channel/0029Vb7LxhRGE56l9woRjd2g
 │❒⁠⁠⁠⁠╰──────────────
